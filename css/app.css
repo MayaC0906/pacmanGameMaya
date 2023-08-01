@@ -1,0 +1,62 @@
+body {
+  background-color: black;
+  color:white;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.modal {
+  padding: 1%;
+  width: 180px;
+  height: 65px;
+  font-size:larger;
+  text-align: center;
+  color: black;
+  background: linear-gradient(white,gray);
+  border-radius: 20%;
+  display: none;
+}
+.victory {
+  padding: 1%;
+  width: 180px;
+  height: 65px;
+  font-size:larger;
+  text-align: center;
+  color: black;
+  background: linear-gradient(white,gray);
+  border-radius: 20%;
+  display: none;
+}
+
+.you-won-btn {
+  color: white;
+  background-color: black;
+  width: 110px;
+  height: 35px;
+  font-size: medium;
+  text-align: center;
+  margin: auto;
+  border-radius: 50%;
+}
+.game-over-btn {
+  color: white;
+  background-color: black;
+  width: 110px;
+  height: 35px;
+  font-size: medium;
+  text-align: center;
+  margin: auto;
+  border-radius: 50%;
+}
+
+
+/* .formLine {
+  margin:10px;
+  padding:10px;
+  background-color: cornflowerblue;
+} */
