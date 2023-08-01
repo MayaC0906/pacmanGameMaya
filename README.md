@@ -1,0 +1,2 @@
+# pacmanGameMaya
+ready pacman
